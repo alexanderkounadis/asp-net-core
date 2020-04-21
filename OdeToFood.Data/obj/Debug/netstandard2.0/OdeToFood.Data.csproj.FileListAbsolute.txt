@@ -1,0 +1,12 @@
+C:\development\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\development\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\development\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\development\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\development\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\development\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\development\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\development\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\development\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\development\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+C:\development\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\development\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
